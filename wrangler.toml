@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "cf-challenge"
 type = "javascript"
-account_id = ""
+account_id = "1210138f96ebe169101ae4b4812c9b05"
 workers_dev = true
 route = ""
 zone_id = ""
